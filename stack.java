@@ -27,6 +27,6 @@ class stackImplementation {
         // Check weather the stack is empty or not
         // Empty function return the boolean result value
         System.out.println("Is the stack is empty or not:" + stack1.empty());
-
+        
     }
 }
